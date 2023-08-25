@@ -16,7 +16,6 @@ This is my school AP Computer Science A Project, where I did a partial recreatio
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * some sort of ide
   ```sh
   ex. eclipse, (this project was made in intelliJ)
